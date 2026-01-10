@@ -1,9 +1,17 @@
-faiss-cpu==1.7.4
-chromadb==0.4.0
-sentence-transformers==2.2.2
-transformers==4.35.2
 pdfplumber==0.7.6
 tqdm==4.65.0
+numpy==1.25.0
+pandas==2.2.0
+sentence-transformers==2.2.2
+transformers==4.35.2
+accelerate==0.22.0
+faiss-cpu==1.7.4
+chromadb==0.4.0
+cross-encoder==0.3.0
+torch==2.2.2
+bitsandbytes==0.41.0
+python-dotenv==1.0.0
+
 
 
 
